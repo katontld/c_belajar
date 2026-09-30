@@ -3,7 +3,7 @@
 
 int main() {
     std::cout << "========================================" << std::endl;
-    std::cout << "       Halo Dunia dari C++!             " << std::endl;
+    std::cout << "       Halo Tes Ndre!             " << std::endl;
     std::cout << "========================================" << std::endl;
 
     std::string nama;
