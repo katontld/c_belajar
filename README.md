@@ -1,6 +1,6 @@
-# Proyek C++ Hello World (Panduan VS Code - Windows)
+# Proyek C (Panduan VS Code - Windows)
 
-Panduan praktis menjalankan kodingan langsung dari **Terminal VS Code** di Windows.
+Panduan praktis menjalankan kodingan bahasa C langsung dari **Terminal VS Code** di Windows.
 
 ---
 
@@ -13,7 +13,7 @@ Panduan praktis menjalankan kodingan langsung dari **Terminal VS Code** di Windo
 2. **Compile Kodingan:**
    Ketik perintah berikut lalu tekan Enter:
    ```powershell
-   g++ main.cpp -o main.exe
+   gcc main.c -o main.exe
    ```
 
 3. **Jalankan Program:**
@@ -29,4 +29,4 @@ Tiap kali ada update kodingan, cukup buka Terminal VS Code dan ketik:
 ```powershell
 git pull
 ```
-Lalu compile dan jalankan lagi (`g++ main.cpp -o main.exe` dan `.\main.exe`).
+Lalu compile dan jalankan lagi (`gcc main.c -o main.exe` dan `.\main.exe`).
