@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Andre suka Grisel ini bahasa C\n");
+    printf("Andre suaminya banyak\n");
     return 0;
 }
