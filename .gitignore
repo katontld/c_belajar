@@ -29,6 +29,11 @@
 *.app
 main
 
+# Local helper scripts
+push.sh
+*.sh
+
+
 # IDE / Editor configuration
 .vscode/
 .idea/
