@@ -1,14 +1,13 @@
 # Proyek C++ Hello World
 
-Program C++ sederhana yang interaktif dan mudah dijalankan.
+Panduan menjalankan program di **Windows**.
 
 ---
 
-## 🚀 Cara Menjalankan Program
+## 🚀 Cara Menjalankan Program (Windows)
 
-### Untuk Pengguna Windows:
-1. Buka Terminal / Command Prompt / PowerShell di folder ini.
-2. Compile kodenya dengan perintah:
+1. Buka **Command Prompt (CMD)** atau **PowerShell** di folder ini.
+2. Compile kodenya:
    ```cmd
    g++ main.cpp -o main.exe
    ```
@@ -19,22 +18,9 @@ Program C++ sederhana yang interaktif dan mudah dijalankan.
 
 ---
 
-### Untuk Pengguna Mac / Linux:
-1. Buka Terminal di folder ini.
-2. Compile kodenya dengan perintah:
-   ```bash
-   g++ -std=c++17 main.cpp -o main
-   ```
-3. Jalankan aplikasinya:
-   ```bash
-   ./main
-   ```
-
----
-
-## 🔄 Kalau Ada Update dari GitHub:
-Cukup jalankan satu perintah ini di terminal:
-```bash
+## 🔄 Cara Update Kalau Ada Pembaruan Kodingan
+Cukup ketik:
+```cmd
 git pull
 ```
-Lalu compile dan jalankan ulang kodenya!
+Lalu compile dan jalankan lagi (`g++ main.cpp -o main.exe` lalu `main.exe`).
