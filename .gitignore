@@ -33,6 +33,12 @@ main
 push.sh
 *.sh
 
+# Local files (not pushed to github)
+main.c
+README.md
+output.json
+
+
 
 # IDE / Editor configuration
 .vscode/
